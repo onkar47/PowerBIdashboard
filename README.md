@@ -31,24 +31,20 @@ This project demonstrates the use of **Power BI** to analyze product usage and u
 
 ## 📸 Dashboard Screenshots
 
-### 🧠 Behavior Analysis
-![Behavior Analysis](Behaviour_analysis.jpeg)
-
-### 📆 Cohort Analysis
-![Cohort Analysis](Cohort_analysis.jpeg)
-
-### 🔻 Funnel Analysis
-![Funnel Analysis](Funnel_analysis.jpeg)
+### 📍 User Tracker
+![User Tracker](M_User_Tracking_Metrics.png)
 
 ### 💸 Revenue Trends
-![Revenue Trends](Revenue_trends.jpeg)
+![Revenue Trends](M_Revenue_Tracking_Metrics.png)
 
-### 👥 User Segmentation
-![User Segmentation](User_segmentation.jpeg)
+### 🧠 Behavior Analysis
+![Behavior Analysis](M_User_Behaviour_analysis.png)
 
-### 📍 User Tracker
-![User Tracker](user_tracker.jpeg)
+### 👥 User Segmentation & 🔻 Funnel Analysis
+![User Segmentation]M_User_Segmentation__Funnel_analysis.png)
 
+### 📆 Cohort Analysis
+![Cohort Analysis](M_Cohort_analysis.png)
 ---
 
 ## 🧠 How to Use
