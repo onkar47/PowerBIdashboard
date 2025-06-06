@@ -41,7 +41,7 @@ This project demonstrates the use of **Power BI** to analyze product usage and u
 ![Behavior Analysis](M_User_Behaviour_analysis.png)
 
 ### 👥 User Segmentation & 🔻 Funnel Analysis
-![User Segmentation]M_User_Segmentation_Funnel_analysis.png)
+![User Segmentation](M_User_Segmentation__Funnel_analysis.png)
 
 ### 📆 Cohort Analysis
 ![Cohort Analysis](M_Cohort_analysis.png)
